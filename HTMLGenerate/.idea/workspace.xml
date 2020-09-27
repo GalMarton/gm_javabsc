@@ -4,12 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand />
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c66a54e-e074-401f-94de-f09b84cef678" name="Default Changelist" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/../gm_javabsc" beforeDir="false" afterPath="$PROJECT_DIR$/../gm_javabsc" afterDir="false" />
+    <list default="true" id="245890c9-4b48-4dff-b978-3828f9bddc93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/Attribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/Div.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/H1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/HTMLContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/HTMLControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/HTMLDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/HTMLTagBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/IHTMLTagBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/main/java/hu/training360/projects/htmldocument/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/HTMLControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/src/main/java/hu/trainig360/projects/proba/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/target/Proba-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/target/classes/hu/trainig360/projects/proba/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proba/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/training360/projects/htmlgenerate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/training360/projects/htmlgenerate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hu/training360/projects/htmlgenerate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hu/training360/projects/htmlgenerate/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +81,21 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1hPqJUeVdbovgkxtmPBy7utfzSx" />
+  <component name="ProjectId" id="1hRuwKyYYaUhDHaQuiYbc38v0wb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gm_javabsc" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTMLDocument/target/HTMLDocument-1.0-SNAPSHOT.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
@@ -70,50 +122,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c66a54e-e074-401f-94de-f09b84cef678" name="Default Changelist" comment="" />
-      <created>1599923002730</created>
+      <changelist id="245890c9-4b48-4dff-b978-3828f9bddc93" name="Default Changelist" comment="" />
+      <created>1599986465978</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599923002730</updated>
+      <updated>1599986465978</updated>
     </task>
-    <task id="LOCAL-00001" summary="First commit">
-      <created>1599923233446</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1599923233446</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="1">
-          <value>
-            <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="structure">
-                    <value>
-                      <list>
-                        <option value="dir:D:/Java Projects/HTMLGenerate" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -121,44 +140,60 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1" value="TOOL_WINDOW" />
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="91" y="91" width="1738" height="898" key="DiffContextDialog" timestamp="1599923592963">
+    <state width="631" height="582" key="DebuggerActiveHint" timestamp="1601210166390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="91" y="91" width="1738" height="898" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599923592963" />
-    <state width="1864" height="273" key="GridCell.Tab.0.bottom" timestamp="1599923592894">
+    <state width="631" height="582" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1601210166390" />
+    <state x="591" y="216" key="FileChooserDialogImpl" timestamp="1599986943415">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599923592894" />
-    <state width="1864" height="273" key="GridCell.Tab.0.center" timestamp="1599923592894">
+    <state x="591" y="216" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599986943415" />
+    <state width="1864" height="353" key="GridCell.Tab.0.bottom" timestamp="1601210621485">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="273" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599923592894" />
-    <state width="1864" height="273" key="GridCell.Tab.0.left" timestamp="1599923592894">
+    <state width="1864" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
+    <state width="1864" height="353" key="GridCell.Tab.0.center" timestamp="1601210621485">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="273" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599923592894" />
-    <state width="1864" height="273" key="GridCell.Tab.0.right" timestamp="1599923592894">
+    <state width="1864" height="353" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
+    <state width="1864" height="353" key="GridCell.Tab.0.left" timestamp="1601210621485">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="273" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599923592894" />
-    <state x="311" y="8" key="SettingsEditor" timestamp="1599923190493">
+    <state width="1864" height="353" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
+    <state width="1864" height="353" key="GridCell.Tab.0.right" timestamp="1601210621485">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="311" y="8" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599923190493" />
-    <state x="700" y="207" key="VcsDiffUtil.ChangesDialog" timestamp="1599923306374">
+    <state width="1864" height="353" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
+    <state width="1864" height="339" key="GridCell.Tab.1.bottom" timestamp="1601210215327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="700" y="207" key="VcsDiffUtil.ChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599923306374" />
+    <state width="1864" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601210215327" />
+    <state width="1864" height="339" key="GridCell.Tab.1.center" timestamp="1601210215327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601210215327" />
+    <state width="1864" height="339" key="GridCell.Tab.1.left" timestamp="1601210215327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601210215327" />
+    <state width="1864" height="339" key="GridCell.Tab.1.right" timestamp="1601210215327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601210215327" />
+    <state x="311" y="8" key="SettingsEditor" timestamp="1599986955999">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="311" y="8" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599986955999" />
+    <state x="609" y="406" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599986914746">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="609" y="406" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1599986914746" />
+    <state x="419" y="201" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601210161398">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="419" y="201" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1601210161398" />
   </component>
 </project>
