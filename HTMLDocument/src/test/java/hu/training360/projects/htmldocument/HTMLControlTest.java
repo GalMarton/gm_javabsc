@@ -1,9 +1,9 @@
 package hu.training360.projects.htmldocument;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
-class HTMLControlTest {
+public class HTMLControlTest {
 
     @Test
     public void generateHTMLTest() {
