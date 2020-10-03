@@ -23,18 +23,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="245890c9-4b48-4dff-b978-3828f9bddc93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/ButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/DivTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/H1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/HTMLContainerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/HTMLDocumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/TableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/HTMLDocument-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HTMLDocument/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HTMLDocument/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTMLDocument/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HTMLDocument/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTMLDocument/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/HTMLControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HTMLDocument/src/test/java/hu/training360/projects/htmldocument/HTMLControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/Attribute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/Button.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/Div.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/H1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/HTMLContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/HTMLControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/HTMLDocument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/HTMLTagBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/IHTMLTagBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/classes/hu/training360/projects/htmldocument/Table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/TEST-hu.training360.projects.htmldocument.ButtonTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/TEST-hu.training360.projects.htmldocument.DivTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/TEST-hu.training360.projects.htmldocument.H1Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/TEST-hu.training360.projects.htmldocument.HTMLContainerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/TEST-hu.training360.projects.htmldocument.HTMLControlTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/TEST-hu.training360.projects.htmldocument.HTMLDocumentTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/TEST-hu.training360.projects.htmldocument.TableTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/hu.training360.projects.htmldocument.ButtonTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/hu.training360.projects.htmldocument.DivTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/hu.training360.projects.htmldocument.H1Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/hu.training360.projects.htmldocument.HTMLContainerTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/hu.training360.projects.htmldocument.HTMLControlTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/hu.training360.projects.htmldocument.HTMLDocumentTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/surefire-reports/hu.training360.projects.htmldocument.TableTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/test-classes/hu/training360/projects/htmldocument/ButtonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/test-classes/hu/training360/projects/htmldocument/DivTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/test-classes/hu/training360/projects/htmldocument/H1Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/test-classes/hu/training360/projects/htmldocument/HTMLContainerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/test-classes/hu/training360/projects/htmldocument/HTMLControlTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/test-classes/hu/training360/projects/htmldocument/HTMLDocumentTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLDocument/target/test-classes/hu/training360/projects/htmldocument/TableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/HTMLDocument_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HTMLGenerate-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTMLDocument/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,26 +156,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="631" height="582" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1601210166390" />
+    <state x="183" y="85" key="DiffContextDialog" timestamp="1601735951687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="183" y="85" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601735951687" />
     <state x="591" y="216" key="FileChooserDialogImpl" timestamp="1601715350548">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="591" y="216" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1601715350548" />
-    <state width="1864" height="353" key="GridCell.Tab.0.bottom" timestamp="1601210621485">
+    <state width="1864" height="353" key="GridCell.Tab.0.bottom" timestamp="1601735800713">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
-    <state width="1864" height="353" key="GridCell.Tab.0.center" timestamp="1601210621485">
+    <state width="1864" height="353" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601735800713" />
+    <state width="1864" height="353" key="GridCell.Tab.0.center" timestamp="1601735800713">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="353" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
-    <state width="1864" height="353" key="GridCell.Tab.0.left" timestamp="1601210621485">
+    <state width="1864" height="353" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601735800713" />
+    <state width="1864" height="353" key="GridCell.Tab.0.left" timestamp="1601735800713">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="353" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
-    <state width="1864" height="353" key="GridCell.Tab.0.right" timestamp="1601210621485">
+    <state width="1864" height="353" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601735800713" />
+    <state width="1864" height="353" key="GridCell.Tab.0.right" timestamp="1601735800713">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1864" height="353" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601210621485" />
+    <state width="1864" height="353" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601735800713" />
     <state width="1864" height="339" key="GridCell.Tab.1.bottom" timestamp="1601210215327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -165,6 +200,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="311" y="8" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599986955999" />
+    <state x="451" y="205" key="Vcs.Push.Dialog.v2" timestamp="1601735960829">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="451" y="205" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601735960829" />
     <state x="609" y="406" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599986914746">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
